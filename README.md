@@ -28,4 +28,4 @@ K-Nearest Neighbors
 Decision Tree
 
 ## Author
-(Write Your Name)
+Urneet Kaur
